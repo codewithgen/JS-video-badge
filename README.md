@@ -26,7 +26,7 @@ Refer to [Smilga reposition](https://github.com/john-smilga/javascript-basic-pro
 
 ## Screenshots
 
-!["Here it what it looks like"](/images/screenshot.png)
+!["Here it what it looks like"](/setup/screenshot-video.png)
 
 
 ## What I learn
@@ -42,7 +42,7 @@ My first time using and understanding querySelectors.
 
 
 ## Deployment
-I deployed by project with [Netlify]()
+I deployed by project with [Netlify](https://subtle-cassata-6abccc.netlify.app/)
 
 
 
