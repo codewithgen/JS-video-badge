@@ -3,11 +3,11 @@
 
 ## Table of contents
 
- - [Source](/#Sources)
- - [Technology](/#Technology)
- - [Screenshot](/#Screenshot)
- - [What I learn](/#WhatILearnt)
- - [Code Reference](/#codeReference)
+ - [Source](#Sources)
+ - [Technology](#Technology/programs)
+ - [Screenshot](#Screenshots)
+ - [What I learn](#WhatILearn)
+ - [Deployment](#Deployment)
 
 
 
