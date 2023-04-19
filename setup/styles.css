@@ -3,7 +3,7 @@
 Fonts
 ===============
 */
-@import url("https://fonts.googleapis.com/css?family=Open+Sans|Roboto:400,700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
 
 /*
 =============== 
@@ -43,7 +43,7 @@ Variables
   --clr-green-dark: hsl(125, 67%, 44%);
   --clr-green-light: hsl(125, 71%, 66%);
   --clr-black: #222;
-  --ff-primary: "Roboto", sans-serif;
+  --ff-primary:'Cedarville Cursive', sans-serif;
   --ff-secondary: "Open Sans", sans-serif;
   --transition: all 0.3s linear;
   --spacing: 0.25rem;
@@ -215,7 +215,8 @@ header {
   z-index: -2;
 }
 h1 {
-  color: var(--clr-white);
+  color: #a88159;
+  text-shadow: 0 0 1px var(--clr-black);
 }
 /* switch button */
 
@@ -237,7 +238,7 @@ h1 {
   font-size: 0.85rem;
   cursor: pointer;
   text-transform: capitalize;
-  color: var(--clr-primary-5);
+  color: #283618;
 }
 .switch {
   position: absolute;
@@ -245,7 +246,7 @@ h1 {
   height: 100%;
   top: 0;
   left: 0;
-  background: var(--clr-primary-5);
+  background: #d4a373;
   border-radius: var(--radius);
   margin: 0;
   display: block;

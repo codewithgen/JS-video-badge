@@ -14,6 +14,8 @@
 ## Sources
 If you want to see how I created this you can follow the [Youtube Video](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=11773s) starting on timestamp (3:16:13).
 
+###Reference code:
+Refer to [Smilga reposition](https://github.com/john-smilga/javascript-basic-projects) for more JavaScripts projects and final solution of the project on [09-video](https://github.com/john-smilga/javascript-basic-projects/tree/master/09-video) folder.
 
 ## Technology/Programs
 
